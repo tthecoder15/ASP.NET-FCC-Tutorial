@@ -26,3 +26,8 @@ publish/
 
 # Configuration files
 appsettings*.json
+
+# Ignore node_modules or similar directories
+node_modules/
+lib/
+
