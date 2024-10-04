@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\fcc-tutorial2.props" />
+</Project>
